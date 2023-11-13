@@ -22,7 +22,7 @@ Able to decode and encode 3 types of algorithms: Caesar Shift, Polybius Square, 
 - To help navigation with additoinal algorithms, inlude a dropdown menu, cards, or sidebar for easy navigation.
 - Create randomly generated messages using a random cipher so that users can practice cracking the code.
 
-## Images of curent app
+## Images of current app
 ### Blank
 ![blank](/images/blank.png)
 
