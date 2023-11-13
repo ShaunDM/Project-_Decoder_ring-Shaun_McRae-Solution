@@ -17,7 +17,7 @@ A decoder app that allows you to encode and decode messgaes using various algori
 ## Description and Features
 Able to decode and encode 3 types of algorithms: Caesar Shift, Polybius Square, and Substitution Cipher. Each algorithm has a description and a text box to input the message.
 
-##Improvements and Future
+## Improvements and Future
 - Add additional algorithms.
 - To help navigation with additoinal algorithms, inlude a dropdown menu, cards, or sidebar for easy navigation.
 - Create randomly generated messages using a random cipher so that users can practice cracking the code.
